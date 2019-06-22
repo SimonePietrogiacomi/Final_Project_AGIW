@@ -16,4 +16,4 @@ Posiziona i file nella cartella della gt ed esegui il programma in python3 che p
 
 Esegui prima `entities_fixer.py` e poi `gt_generator.py`
 
-`gt_generator.py` ancora non è nella sua forma finale, dovrà allenarsi di più per non litigare con JedAI nella prima riga
+`gt_generator.py` ~~ancora non è nella sua forma finale, dovrà allenarsi di più per non litigare con JedAI nella prima riga~~ ora sembra fare ciò che deve
