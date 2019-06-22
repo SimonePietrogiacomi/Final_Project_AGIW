@@ -16,5 +16,6 @@ with open("entities_fixed.json") as entities:
             instance0 = current_entity_row["instances"][0]
             for instance in current_entity_row["instances"]:
                 if instance:
-                    if instance != instance0:
+                    if instance != instance0 and (instance != "www.ukdigitalcameras.co.uk//288" and instance != "www.ukdigitalcameras.co.uk//257"):
                         csv_writer.writerow([instance0, instance])
+                        instance0 = instance
