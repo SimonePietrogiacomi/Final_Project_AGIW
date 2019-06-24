@@ -1,7 +1,7 @@
 # Final_Project_AGIW
 
 # Dataset
-Posiziona i file nella cartella del dataset ed esegui il programma in python3 che preferisci. 
+Posiziona i file nella cartella del dataset ed esegui il programma in python3 che preferisci. I due programmi prendono lo stesso input (il dataset originale, quindi le cartelle contenenti i json) e producono csv differenti.
 
 **IMPORTANTE** Le cartelle contenenti *dataset* e *gt* è meglio siano separate
 
